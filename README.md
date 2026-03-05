@@ -10,14 +10,14 @@ I'm happy to walk you through my training journey 😄
 
 | # | Folder | Description |
 |---|--------|-------------|
-| 01 | [Excel_Foundations](./01_Excel_Foundations) | Logical functions, lookup functions, PivotTables, and data visualization in Excel |
-| 02 | [Data_Transformation_&_Analysis](./02_Data_Transformation_and_Analysis) | ETL processes and data transformation using Power Query |
-| 03 | [SQL_Joins_&_Clauses](./03_SQL_Joins_and_Clauses) | SQL querying, joins, clauses, and aggregate functions |
-| 04 | [Excel_Mastery](./04_Excel_Mastery) | Data modeling and dynamic dashboard creation in Excel |
-| 05 | [PowerBI](./05_PowerBI) | Data visualizations, DAX measures, and interactive reporting in Power BI |
-| 06 | [Capstone_SQL](./06_Capstone_SQL) | Capstone Phase 2: SQL data exploration and analytical queries |
-| 07 | [Capstone_Excel](./07_Capstone_Excel) | Capstone Phase 3: Budget and financial analytics in Excel |
-| 08 | [Capstone_PowerBI](./08_Capstone_PowerBI) | Capstone Phase 4: Customer and loan analytics in Power BI |
+| 01 | [Excel_Foundations](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/01_Excel_Foundations) | Logical functions, lookup functions, PivotTables, and data visualization in Excel |
+| 02 | [Data_Transformation_and_Analysis](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/02_Data_Transformation_&_Analysis) | ETL processes and data transformation using Power Query |
+| 03 | [SQL_Joins_and_Clauses](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/03_SQL_Joins_&_Clauses) | SQL querying, joins, clauses, and aggregate functions |
+| 04 | [Excel_Mastery](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/04_Excel_Mastery) | Data modeling and dynamic dashboard creation in Excel |
+| 05 | [PowerBI](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/05_PowerBI) | Data visualizations, DAX measures, and interactive reporting in Power BI |
+| 06 | [Capstone_SQL](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/06_Capstone_SQL) | Capstone Phase 2: SQL data exploration and analytical queries |
+| 07 | [Capstone_Excel](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/07_Capstone_Excel) | Capstone Phase 3: Budget and financial analytics in Excel |
+| 08 | [Capstone_PowerBI](https://github.com/mrlnmina13/Per-Scholas-Data-Analytics-Program/tree/main/08_Capstone_PowerBI) | Capstone Phase 4: Customer and loan analytics in Power BI |
 
 ---
 
